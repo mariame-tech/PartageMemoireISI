@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mariame\\source\\repos\\PartageMemoireM1GL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76653CF0-97EF-4D88-9C1A-7BC03453A6C6}|MetierPM\\MetierPM.csproj|c:\\users\\mariame\\source\\repos\\partagememoirem1gl\\metierpm\\iservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76653CF0-97EF-4D88-9C1A-7BC03453A6C6}|MetierPM\\MetierPM.csproj|solutionrelative:metierpm\\iservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068DF04D-C1F3-4335-BEC7-28C3C01338B1}|PMGateway\\PMGateway.csproj|c:\\users\\mariame\\source\\repos\\partagememoirem1gl\\pmgateway\\controllers\\expertcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068DF04D-C1F3-4335-BEC7-28C3C01338B1}|PMGateway\\PMGateway.csproj|solutionrelative:pmgateway\\controllers\\expertcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76653CF0-97EF-4D88-9C1A-7BC03453A6C6}|MetierPM\\MetierPM.csproj|c:\\users\\mariame\\source\\repos\\partagememoirem1gl\\metierpm\\service1.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76653CF0-97EF-4D88-9C1A-7BC03453A6C6}|MetierPM\\MetierPM.csproj|solutionrelative:metierpm\\service1.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76653CF0-97EF-4D88-9C1A-7BC03453A6C6}|MetierPM\\MetierPM.csproj|C:\\Users\\Mariame\\source\\repos\\PartageMemoireM1GL\\metierpm\\model\\td_erreur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76653CF0-97EF-4D88-9C1A-7BC03453A6C6}|MetierPM\\MetierPM.csproj|solutionrelative:metierpm\\model\\td_erreur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76653CF0-97EF-4D88-9C1A-7BC03453A6C6}|MetierPM\\MetierPM.csproj|C:\\Users\\Mariame\\source\\repos\\PartageMemoireM1GL\\metierpm\\utils\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76653CF0-97EF-4D88-9C1A-7BC03453A6C6}|MetierPM\\MetierPM.csproj|solutionrelative:metierpm\\utils\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76653CF0-97EF-4D88-9C1A-7BC03453A6C6}|MetierPM\\MetierPM.csproj|C:\\Users\\Mariame\\source\\repos\\PartageMemoireM1GL\\metierpm\\model\\memoire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76653CF0-97EF-4D88-9C1A-7BC03453A6C6}|MetierPM\\MetierPM.csproj|solutionrelative:metierpm\\model\\memoire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76653CF0-97EF-4D88-9C1A-7BC03453A6C6}|MetierPM\\MetierPM.csproj|C:\\Users\\Mariame\\source\\repos\\PartageMemoireM1GL\\MetierPM\\Model\\bdMemoireM1Context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76653CF0-97EF-4D88-9C1A-7BC03453A6C6}|MetierPM\\MetierPM.csproj|solutionrelative:MetierPM\\Model\\bdMemoireM1Context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76653CF0-97EF-4D88-9C1A-7BC03453A6C6}|MetierPM\\MetierPM.csproj|C:\\Users\\Mariame\\source\\repos\\PartageMemoireM1GL\\MetierPM\\Model\\Personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76653CF0-97EF-4D88-9C1A-7BC03453A6C6}|MetierPM\\MetierPM.csproj|solutionrelative:MetierPM\\Model\\Personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExpertController.cs",
+              "DocumentMoniker": "C:\\Users\\Mariame\\source\\repos\\PartageMemoireM1GL\\PMGateway\\Controllers\\ExpertController.cs",
+              "RelativeDocumentMoniker": "PMGateway\\Controllers\\ExpertController.cs",
+              "ToolTip": "C:\\Users\\Mariame\\source\\repos\\PartageMemoireM1GL\\PMGateway\\Controllers\\ExpertController.cs",
+              "RelativeToolTip": "PMGateway\\Controllers\\ExpertController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T14:04:33.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IService1.cs",
+              "DocumentMoniker": "C:\\Users\\Mariame\\source\\repos\\PartageMemoireM1GL\\MetierPM\\IService1.cs",
+              "RelativeDocumentMoniker": "MetierPM\\IService1.cs",
+              "ToolTip": "C:\\Users\\Mariame\\source\\repos\\PartageMemoireM1GL\\MetierPM\\IService1.cs",
+              "RelativeToolTip": "MetierPM\\IService1.cs",
+              "ViewState": "AQIAABsAAADA//////8nwBoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:08:22.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Service1.svc.cs",
+              "DocumentMoniker": "C:\\Users\\Mariame\\source\\repos\\PartageMemoireM1GL\\MetierPM\\Service1.svc.cs",
+              "RelativeDocumentMoniker": "MetierPM\\Service1.svc.cs",
+              "ToolTip": "C:\\Users\\Mariame\\source\\repos\\PartageMemoireM1GL\\MetierPM\\Service1.svc.cs",
+              "RelativeToolTip": "MetierPM\\Service1.svc.cs",
+              "ViewState": "AQIAAGcAAABgAAAAAAAiwFEAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T22:24:39.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\Mariame\\source\\repos\\PartageMemoireM1GL\\MetierPM\\Utils\\Logger.cs",
+              "RelativeDocumentMoniker": "MetierPM\\Utils\\Logger.cs",
+              "ToolTip": "C:\\Users\\Mariame\\source\\repos\\PartageMemoireM1GL\\MetierPM\\Utils\\Logger.cs",
+              "RelativeToolTip": "MetierPM\\Utils\\Logger.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAIwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T21:45:26.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Td_Erreur.cs",
+              "DocumentMoniker": "C:\\Users\\Mariame\\source\\repos\\PartageMemoireM1GL\\MetierPM\\Model\\Td_Erreur.cs",
+              "RelativeDocumentMoniker": "MetierPM\\Model\\Td_Erreur.cs",
+              "ToolTip": "C:\\Users\\Mariame\\source\\repos\\PartageMemoireM1GL\\MetierPM\\Model\\Td_Erreur.cs",
+              "RelativeToolTip": "MetierPM\\Model\\Td_Erreur.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAswBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T19:40:51.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "bdMemoireM1Context.cs",
+              "DocumentMoniker": "C:\\Users\\Mariame\\source\\repos\\PartageMemoireM1GL\\MetierPM\\Model\\bdMemoireM1Context.cs",
+              "RelativeDocumentMoniker": "MetierPM\\Model\\bdMemoireM1Context.cs",
+              "ToolTip": "C:\\Users\\Mariame\\source\\repos\\PartageMemoireM1GL\\MetierPM\\Model\\bdMemoireM1Context.cs",
+              "RelativeToolTip": "MetierPM\\Model\\bdMemoireM1Context.cs",
+              "ViewState": "AQIAAAgAAABgZmZmZmYuwBYAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T01:00:07.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Memoire.cs",
+              "DocumentMoniker": "C:\\Users\\Mariame\\source\\repos\\PartageMemoireM1GL\\MetierPM\\Model\\Memoire.cs",
+              "RelativeDocumentMoniker": "MetierPM\\Model\\Memoire.cs",
+              "ToolTip": "C:\\Users\\Mariame\\source\\repos\\PartageMemoireM1GL\\MetierPM\\Model\\Memoire.cs",
+              "RelativeToolTip": "MetierPM\\Model\\Memoire.cs",
+              "ViewState": "AQIAAA0AAACAZmZmZmYiwA4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T11:29:11.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Personne.cs",
+              "DocumentMoniker": "C:\\Users\\Mariame\\source\\repos\\PartageMemoireM1GL\\MetierPM\\Model\\Personne.cs",
+              "RelativeDocumentMoniker": "MetierPM\\Model\\Personne.cs",
+              "ToolTip": "C:\\Users\\Mariame\\source\\repos\\PartageMemoireM1GL\\MetierPM\\Model\\Personne.cs",
+              "RelativeToolTip": "MetierPM\\Model\\Personne.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T00:47:14.622Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

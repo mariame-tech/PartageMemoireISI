@@ -1,0 +1,16 @@
+{
+  "ExtendedData": {
+    "inputs": [
+      "http://localhost:60005/Service1.svc"
+    ],
+    "collectionTypes": [
+      "System.Array",
+      "System.Collections.Generic.Dictionary`2"
+    ],
+    "namespaceMappings": [
+      "*, ServiceMetier"
+    ],
+    "targetFramework": "net8.0",
+    "typeReuseMode": "Specified"
+  }
+}

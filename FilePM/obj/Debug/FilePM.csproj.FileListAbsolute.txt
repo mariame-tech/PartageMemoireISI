@@ -1,0 +1,7 @@
+C:\Users\Mariame\source\repos\PartageMemoireM1GL\FilePM\bin\FilePM.dll.config
+C:\Users\Mariame\source\repos\PartageMemoireM1GL\FilePM\bin\FilePM.dll
+C:\Users\Mariame\source\repos\PartageMemoireM1GL\FilePM\bin\FilePM.pdb
+C:\Users\Mariame\source\repos\PartageMemoireM1GL\FilePM\obj\Debug\FilePM.csproj.AssemblyReference.cache
+C:\Users\Mariame\source\repos\PartageMemoireM1GL\FilePM\obj\Debug\FilePM.csproj.CoreCompileInputs.cache
+C:\Users\Mariame\source\repos\PartageMemoireM1GL\FilePM\obj\Debug\FilePM.dll
+C:\Users\Mariame\source\repos\PartageMemoireM1GL\FilePM\obj\Debug\FilePM.pdb

@@ -1,0 +1,6 @@
+@PMGateway_HostAddress = http://localhost:5206
+
+GET {{PMGateway_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
