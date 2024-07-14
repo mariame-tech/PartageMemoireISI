@@ -10352,24 +10352,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Mariame\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\ACER\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mariame\\source\\repos\\PartageMemoireM1GL\\PMGateway\\PMGateway.csproj",
+      "projectUniqueName": "D:\\Cours M1GL ISI\\PartageMemoireISI\\PMGateway\\PMGateway.csproj",
       "projectName": "PMGateway",
-      "projectPath": "C:\\Users\\Mariame\\source\\repos\\PartageMemoireM1GL\\PMGateway\\PMGateway.csproj",
-      "packagesPath": "C:\\Users\\Mariame\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mariame\\source\\repos\\PartageMemoireM1GL\\PMGateway\\obj\\",
+      "projectPath": "D:\\Cours M1GL ISI\\PartageMemoireISI\\PMGateway\\PMGateway.csproj",
+      "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
+      "outputPath": "D:\\Cours M1GL ISI\\PartageMemoireISI\\PMGateway\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Mariame\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -10377,7 +10372,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -10390,11 +10384,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -10463,7 +10452,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
