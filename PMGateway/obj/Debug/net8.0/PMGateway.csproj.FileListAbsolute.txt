@@ -657,3 +657,4 @@ D:\Cours M1GL ISI\PartageMemoireISI\PMGateway\obj\Debug\net8.0\refint\PMGateway.
 D:\Cours M1GL ISI\PartageMemoireISI\PMGateway\obj\Debug\net8.0\PMGateway.pdb
 D:\Cours M1GL ISI\PartageMemoireISI\PMGateway\obj\Debug\net8.0\PMGateway.genruntimeconfig.cache
 D:\Cours M1GL ISI\PartageMemoireISI\PMGateway\obj\Debug\net8.0\ref\PMGateway.dll
+D:\Cours M1GL ISI\PartageMemoireISI\PMGateway\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

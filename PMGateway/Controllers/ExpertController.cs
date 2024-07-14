@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using ServiceFile;
 using ServiceMetier;
@@ -7,6 +8,7 @@ namespace PMGateway.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class ExpertController : ControllerBase
     {
        ServiceMetier.Service1Client service= new ServiceMetier.Service1Client();
