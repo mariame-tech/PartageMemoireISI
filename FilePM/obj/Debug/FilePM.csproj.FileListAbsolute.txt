@@ -5,3 +5,10 @@ C:\Users\Mariame\source\repos\PartageMemoireM1GL\FilePM\obj\Debug\FilePM.csproj.
 C:\Users\Mariame\source\repos\PartageMemoireM1GL\FilePM\obj\Debug\FilePM.csproj.CoreCompileInputs.cache
 C:\Users\Mariame\source\repos\PartageMemoireM1GL\FilePM\obj\Debug\FilePM.dll
 C:\Users\Mariame\source\repos\PartageMemoireM1GL\FilePM\obj\Debug\FilePM.pdb
+C:\Users\vicab\OneDrive\Documents\PartageMemoireISI\FilePM\bin\FilePM.dll.config
+C:\Users\vicab\OneDrive\Documents\PartageMemoireISI\FilePM\bin\FilePM.dll
+C:\Users\vicab\OneDrive\Documents\PartageMemoireISI\FilePM\bin\FilePM.pdb
+C:\Users\vicab\OneDrive\Documents\PartageMemoireISI\FilePM\obj\Debug\FilePM.csproj.AssemblyReference.cache
+C:\Users\vicab\OneDrive\Documents\PartageMemoireISI\FilePM\obj\Debug\FilePM.csproj.CoreCompileInputs.cache
+C:\Users\vicab\OneDrive\Documents\PartageMemoireISI\FilePM\obj\Debug\FilePM.dll
+C:\Users\vicab\OneDrive\Documents\PartageMemoireISI\FilePM\obj\Debug\FilePM.pdb

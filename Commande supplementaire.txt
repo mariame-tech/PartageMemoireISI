@@ -1,0 +1,28 @@
+Pour installer les packages supp pour keycloak
+
+Install-Package Microsoft.AspNetCore.Authentication.JwtBearer
+
+Install-Package Microsoft.IdentityModel.Tokens
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

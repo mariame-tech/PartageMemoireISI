@@ -1,38 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Mariame\\source\\repos\\PartageMemoireM1GL\\",
+  "WorkspaceRootPath": "C:\\Users\\vicab\\OneDrive\\Documents\\PartageMemoireISI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{76653CF0-97EF-4D88-9C1A-7BC03453A6C6}|MetierPM\\MetierPM.csproj|c:\\users\\mariame\\source\\repos\\partagememoirem1gl\\metierpm\\iservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76653CF0-97EF-4D88-9C1A-7BC03453A6C6}|MetierPM\\MetierPM.csproj|solutionrelative:metierpm\\iservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{068DF04D-C1F3-4335-BEC7-28C3C01338B1}|PMGateway\\PMGateway.csproj|c:\\users\\mariame\\source\\repos\\partagememoirem1gl\\pmgateway\\controllers\\expertcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{068DF04D-C1F3-4335-BEC7-28C3C01338B1}|PMGateway\\PMGateway.csproj|c:\\users\\vicab\\onedrive\\documents\\partagememoireisi\\pmgateway\\controllers\\expertcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{068DF04D-C1F3-4335-BEC7-28C3C01338B1}|PMGateway\\PMGateway.csproj|solutionrelative:pmgateway\\controllers\\expertcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76653CF0-97EF-4D88-9C1A-7BC03453A6C6}|MetierPM\\MetierPM.csproj|c:\\users\\mariame\\source\\repos\\partagememoirem1gl\\metierpm\\service1.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76653CF0-97EF-4D88-9C1A-7BC03453A6C6}|MetierPM\\MetierPM.csproj|solutionrelative:metierpm\\service1.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{068DF04D-C1F3-4335-BEC7-28C3C01338B1}|PMGateway\\PMGateway.csproj|c:\\users\\vicab\\onedrive\\documents\\partagememoireisi\\pmgateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068DF04D-C1F3-4335-BEC7-28C3C01338B1}|PMGateway\\PMGateway.csproj|solutionrelative:pmgateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76653CF0-97EF-4D88-9C1A-7BC03453A6C6}|MetierPM\\MetierPM.csproj|C:\\Users\\Mariame\\source\\repos\\PartageMemoireM1GL\\metierpm\\model\\td_erreur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76653CF0-97EF-4D88-9C1A-7BC03453A6C6}|MetierPM\\MetierPM.csproj|solutionrelative:metierpm\\model\\td_erreur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{068DF04D-C1F3-4335-BEC7-28C3C01338B1}|PMGateway\\PMGateway.csproj|c:\\users\\vicab\\onedrive\\documents\\partagememoireisi\\pmgateway\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068DF04D-C1F3-4335-BEC7-28C3C01338B1}|PMGateway\\PMGateway.csproj|solutionrelative:pmgateway\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76653CF0-97EF-4D88-9C1A-7BC03453A6C6}|MetierPM\\MetierPM.csproj|C:\\Users\\Mariame\\source\\repos\\PartageMemoireM1GL\\metierpm\\utils\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76653CF0-97EF-4D88-9C1A-7BC03453A6C6}|MetierPM\\MetierPM.csproj|solutionrelative:metierpm\\utils\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{068DF04D-C1F3-4335-BEC7-28C3C01338B1}|PMGateway\\PMGateway.csproj|c:\\users\\vicab\\onedrive\\documents\\partagememoireisi\\pmgateway\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068DF04D-C1F3-4335-BEC7-28C3C01338B1}|PMGateway\\PMGateway.csproj|solutionrelative:pmgateway\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76653CF0-97EF-4D88-9C1A-7BC03453A6C6}|MetierPM\\MetierPM.csproj|C:\\Users\\Mariame\\source\\repos\\PartageMemoireM1GL\\metierpm\\model\\memoire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76653CF0-97EF-4D88-9C1A-7BC03453A6C6}|MetierPM\\MetierPM.csproj|solutionrelative:metierpm\\model\\memoire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{068DF04D-C1F3-4335-BEC7-28C3C01338B1}|PMGateway\\PMGateway.csproj|c:\\users\\vicab\\onedrive\\documents\\partagememoireisi\\pmgateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{068DF04D-C1F3-4335-BEC7-28C3C01338B1}|PMGateway\\PMGateway.csproj|solutionrelative:pmgateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76653CF0-97EF-4D88-9C1A-7BC03453A6C6}|MetierPM\\MetierPM.csproj|C:\\Users\\Mariame\\source\\repos\\PartageMemoireM1GL\\MetierPM\\Model\\bdMemoireM1Context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76653CF0-97EF-4D88-9C1A-7BC03453A6C6}|MetierPM\\MetierPM.csproj|solutionrelative:MetierPM\\Model\\bdMemoireM1Context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{76653CF0-97EF-4D88-9C1A-7BC03453A6C6}|MetierPM\\MetierPM.csproj|C:\\Users\\Mariame\\source\\repos\\PartageMemoireM1GL\\MetierPM\\Model\\Personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76653CF0-97EF-4D88-9C1A-7BC03453A6C6}|MetierPM\\MetierPM.csproj|solutionrelative:MetierPM\\Model\\Personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{068DF04D-C1F3-4335-BEC7-28C3C01338B1}|PMGateway\\PMGateway.csproj|c:\\users\\vicab\\onedrive\\documents\\partagememoireisi\\pmgateway\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068DF04D-C1F3-4335-BEC7-28C3C01338B1}|PMGateway\\PMGateway.csproj|solutionrelative:pmgateway\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,108 +34,85 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ExpertController.cs",
-              "DocumentMoniker": "C:\\Users\\Mariame\\source\\repos\\PartageMemoireM1GL\\PMGateway\\Controllers\\ExpertController.cs",
-              "RelativeDocumentMoniker": "PMGateway\\Controllers\\ExpertController.cs",
-              "ToolTip": "C:\\Users\\Mariame\\source\\repos\\PartageMemoireM1GL\\PMGateway\\Controllers\\ExpertController.cs",
-              "RelativeToolTip": "PMGateway\\Controllers\\ExpertController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T14:04:33.777Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "IService1.cs",
-              "DocumentMoniker": "C:\\Users\\Mariame\\source\\repos\\PartageMemoireM1GL\\MetierPM\\IService1.cs",
-              "RelativeDocumentMoniker": "MetierPM\\IService1.cs",
-              "ToolTip": "C:\\Users\\Mariame\\source\\repos\\PartageMemoireM1GL\\MetierPM\\IService1.cs",
-              "RelativeToolTip": "MetierPM\\IService1.cs",
-              "ViewState": "AQIAABsAAADA//////8nwBoAAAAIAAAA",
+              "Title": "ExpertController.cs",
+              "DocumentMoniker": "C:\\Users\\vicab\\OneDrive\\Documents\\PartageMemoireISI\\PMGateway\\Controllers\\ExpertController.cs",
+              "RelativeDocumentMoniker": "PMGateway\\Controllers\\ExpertController.cs",
+              "ToolTip": "C:\\Users\\vicab\\OneDrive\\Documents\\PartageMemoireISI\\PMGateway\\Controllers\\ExpertController.cs",
+              "RelativeToolTip": "PMGateway\\Controllers\\ExpertController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T13:08:22.978Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Service1.svc.cs",
-              "DocumentMoniker": "C:\\Users\\Mariame\\source\\repos\\PartageMemoireM1GL\\MetierPM\\Service1.svc.cs",
-              "RelativeDocumentMoniker": "MetierPM\\Service1.svc.cs",
-              "ToolTip": "C:\\Users\\Mariame\\source\\repos\\PartageMemoireM1GL\\MetierPM\\Service1.svc.cs",
-              "RelativeToolTip": "MetierPM\\Service1.svc.cs",
-              "ViewState": "AQIAAGcAAABgAAAAAAAiwFEAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T22:24:39.672Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Logger.cs",
-              "DocumentMoniker": "C:\\Users\\Mariame\\source\\repos\\PartageMemoireM1GL\\MetierPM\\Utils\\Logger.cs",
-              "RelativeDocumentMoniker": "MetierPM\\Utils\\Logger.cs",
-              "ToolTip": "C:\\Users\\Mariame\\source\\repos\\PartageMemoireM1GL\\MetierPM\\Utils\\Logger.cs",
-              "RelativeToolTip": "MetierPM\\Utils\\Logger.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAIwDUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T21:45:26.896Z",
+              "WhenOpened": "2024-07-15T20:40:21.949Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Td_Erreur.cs",
-              "DocumentMoniker": "C:\\Users\\Mariame\\source\\repos\\PartageMemoireM1GL\\MetierPM\\Model\\Td_Erreur.cs",
-              "RelativeDocumentMoniker": "MetierPM\\Model\\Td_Erreur.cs",
-              "ToolTip": "C:\\Users\\Mariame\\source\\repos\\PartageMemoireM1GL\\MetierPM\\Model\\Td_Erreur.cs",
-              "RelativeToolTip": "MetierPM\\Model\\Td_Erreur.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAswBAAAAAAAAAA",
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\vicab\\OneDrive\\Documents\\PartageMemoireISI\\PMGateway\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "PMGateway\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\vicab\\OneDrive\\Documents\\PartageMemoireISI\\PMGateway\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "PMGateway\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAiwDIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T19:40:51.835Z",
+              "WhenOpened": "2024-07-15T19:19:45.296Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "bdMemoireM1Context.cs",
-              "DocumentMoniker": "C:\\Users\\Mariame\\source\\repos\\PartageMemoireM1GL\\MetierPM\\Model\\bdMemoireM1Context.cs",
-              "RelativeDocumentMoniker": "MetierPM\\Model\\bdMemoireM1Context.cs",
-              "ToolTip": "C:\\Users\\Mariame\\source\\repos\\PartageMemoireM1GL\\MetierPM\\Model\\bdMemoireM1Context.cs",
-              "RelativeToolTip": "MetierPM\\Model\\bdMemoireM1Context.cs",
-              "ViewState": "AQIAAAgAAABgZmZmZmYuwBYAAAA0AAAA",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\vicab\\OneDrive\\Documents\\PartageMemoireISI\\PMGateway\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "PMGateway\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\vicab\\OneDrive\\Documents\\PartageMemoireISI\\PMGateway\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "PMGateway\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T01:00:07.089Z"
+              "WhenOpened": "2024-07-15T19:12:42.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vicab\\OneDrive\\Documents\\PartageMemoireISI\\PMGateway\\appsettings.json",
+              "RelativeDocumentMoniker": "PMGateway\\appsettings.json",
+              "ToolTip": "C:\\Users\\vicab\\OneDrive\\Documents\\PartageMemoireISI\\PMGateway\\appsettings.json",
+              "RelativeToolTip": "PMGateway\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-15T19:05:13.256Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Memoire.cs",
-              "DocumentMoniker": "C:\\Users\\Mariame\\source\\repos\\PartageMemoireM1GL\\MetierPM\\Model\\Memoire.cs",
-              "RelativeDocumentMoniker": "MetierPM\\Model\\Memoire.cs",
-              "ToolTip": "C:\\Users\\Mariame\\source\\repos\\PartageMemoireM1GL\\MetierPM\\Model\\Memoire.cs",
-              "RelativeToolTip": "MetierPM\\Model\\Memoire.cs",
-              "ViewState": "AQIAAA0AAACAZmZmZmYiwA4AAAAiAAAA",
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\vicab\\OneDrive\\Documents\\PartageMemoireISI\\PMGateway\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "PMGateway\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\vicab\\OneDrive\\Documents\\PartageMemoireISI\\PMGateway\\WeatherForecast.cs",
+              "RelativeToolTip": "PMGateway\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-02T11:29:11.855Z"
+              "WhenOpened": "2024-07-15T19:05:08.817Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Personne.cs",
-              "DocumentMoniker": "C:\\Users\\Mariame\\source\\repos\\PartageMemoireM1GL\\MetierPM\\Model\\Personne.cs",
-              "RelativeDocumentMoniker": "MetierPM\\Model\\Personne.cs",
-              "ToolTip": "C:\\Users\\Mariame\\source\\repos\\PartageMemoireM1GL\\MetierPM\\Model\\Personne.cs",
-              "RelativeToolTip": "MetierPM\\Model\\Personne.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAjAAAA",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vicab\\OneDrive\\Documents\\PartageMemoireISI\\PMGateway\\Program.cs",
+              "RelativeDocumentMoniker": "PMGateway\\Program.cs",
+              "ToolTip": "C:\\Users\\vicab\\OneDrive\\Documents\\PartageMemoireISI\\PMGateway\\Program.cs",
+              "RelativeToolTip": "PMGateway\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T00:47:14.622Z"
+              "WhenOpened": "2024-07-15T19:03:18.015Z",
+              "EditorCaption": ""
             }
           ]
         }
