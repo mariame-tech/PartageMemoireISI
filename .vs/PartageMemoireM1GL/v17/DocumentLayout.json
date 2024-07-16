@@ -44,7 +44,7 @@
               "RelativeDocumentMoniker": "PMGateway\\Controllers\\ExpertController.cs",
               "ToolTip": "C:\\Users\\vicab\\OneDrive\\Documents\\PartageMemoireISI\\PMGateway\\Controllers\\ExpertController.cs",
               "RelativeToolTip": "PMGateway\\Controllers\\ExpertController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAfAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-15T20:40:21.949Z",
               "EditorCaption": ""
@@ -59,8 +59,7 @@
               "RelativeToolTip": "PMGateway\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AQIAACQAAAAAAAAAAAAiwDIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T19:19:45.296Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-15T19:19:45.296Z"
             },
             {
               "$type": "Document",
@@ -72,8 +71,7 @@
               "RelativeToolTip": "PMGateway\\Controllers\\AuthController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T19:12:42.257Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-15T19:12:42.257Z"
             },
             {
               "$type": "Document",
@@ -85,8 +83,7 @@
               "RelativeToolTip": "PMGateway\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-15T19:05:13.256Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-15T19:05:13.256Z"
             },
             {
               "$type": "Document",
@@ -98,8 +95,7 @@
               "RelativeToolTip": "PMGateway\\WeatherForecast.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T19:05:08.817Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-15T19:05:08.817Z"
             },
             {
               "$type": "Document",
@@ -111,8 +107,7 @@
               "RelativeToolTip": "PMGateway\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T19:03:18.015Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-15T19:03:18.015Z"
             }
           ]
         }
