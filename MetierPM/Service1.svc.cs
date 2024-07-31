@@ -62,9 +62,9 @@ namespace MetierPM
                     leExpert.Prenom=expert.Prenom;
                     leExpert.Nom=expert.Nom;
                     leExpert.Specialite=expert.Specialite;  
-                    db.SaveChanges();
                     return true;
                 }
+                return false; 
                
             }
             catch (Exception e)
@@ -72,19 +72,19 @@ namespace MetierPM
                 logger.WriteDataError("Serice1-UpdateExpert", e.ToString());
                 return false;
             }
-            return true;
+            
         }
         /// <summary>
         /// 
         /// </summary>
         /// <param name="Idexpert"></param>
         /// <returns></returns>
-        public bool DeleteExpert(int? Idexpert)
+        public bool DeleteExpert(int? IdExpert)
         {
             try
             {
-                var leExpert = db.experts.Find(Idexpert);
-                if (leExpert == null)
+                var leExpert = db.experts.Find(IdExpert);
+                if (leExpert != null)
                 {
                     db.experts.Remove(leExpert);
                     db.SaveChanges();
@@ -97,7 +97,7 @@ namespace MetierPM
                 logger.WriteDataError("Serice1-DeleteExpert", e.ToString());
                 return false;
             }
-            return true;
+            return false; 
         }
         /// <summary>
         /// 
