@@ -52,28 +52,64 @@ namespace MetierPM
                 return false;
             }
         }
-        
+
         public bool UpdateExpert(Expert expert)
         {
             try
             {
-                var leExpert=db.experts.Find(expert.Id);
-                if (leExpert == null) {
-                    leExpert.Prenom=expert.Prenom;
-                    leExpert.Nom=expert.Nom;
-                    leExpert.Specialite=expert.Specialite;  
+                var leExpert = db.experts.Find(expert.Id);
+                if (leExpert != null)
+                {
+                    leExpert.Prenom = expert.Prenom;
+                    leExpert.Nom = expert.Nom;
+                    leExpert.Specialite = expert.Specialite;
+                    db.SaveChanges();
                     return true;
                 }
-                return false; 
-               
+                return false;
+
             }
             catch (Exception e)
             {
                 logger.WriteDataError("Serice1-UpdateExpert", e.ToString());
                 return false;
             }
-            
+
         }
+        //public bool UpdateExpert(Expert expert)
+        //{
+        //    try
+        //    {
+        //        var leExpert = db.experts.Find(expert.Id);
+        //        if (leExpert != null)
+        //        {
+        //            // Ne met à jour que les propriétés qui ne sont pas des chaînes de caractères vides ou "string"
+        //            if (!string.IsNullOrEmpty(expert.Prenom) && expert.Prenom != "string")
+        //            {
+        //                leExpert.Prenom = expert.Prenom;
+        //            }
+        //            if (!string.IsNullOrEmpty(expert.Nom) && expert.Nom != "string")
+        //            {
+        //                leExpert.Nom = expert.Nom;
+        //            }
+        //            if (!string.IsNullOrEmpty(expert.Specialite) && expert.Specialite != "string")
+        //            {
+        //                leExpert.Specialite = expert.Specialite;
+        //            }
+
+        //            db.SaveChanges();  // Enregistrer les modifications
+        //            return true;
+        //        }
+        //        return false;
+        //    }
+        //    catch (Exception e)
+        //    {
+        //        logger.WriteDataError("Service1-UpdateExpert", e.ToString());
+        //        return false;
+        //    }
+        //}
+
+
         /// <summary>
         /// 
         /// </summary>

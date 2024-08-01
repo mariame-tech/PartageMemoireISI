@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PMGateway")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08a4daa267c90444e7dd10db123adc4962cb36c5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3688e496d395437a0d77bc355f272f26984c0766")]
 [assembly: System.Reflection.AssemblyProductAttribute("PMGateway")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PMGateway")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
